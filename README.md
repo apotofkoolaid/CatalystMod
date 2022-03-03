@@ -1,2 +1,4 @@
-# CatalystMod
-A content addon for the Calamity Mod.
+# Catalyst Mod
+A content addon mod for the Terraria Calamity Mod.
+
+Currently under development.
